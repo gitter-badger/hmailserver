@@ -1,6 +1,8 @@
 hMailServer
 ===========
 
+[![Join the chat at https://gitter.im/twkrol/hmailserver](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/twkrol/hmailserver?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 hMailServer is an open source email server for Microsoft Windows.
 
 This page describes how to compile and run hMailServer in debug. 
